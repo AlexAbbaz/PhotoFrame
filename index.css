@@ -1,0 +1,30 @@
+.frame {
+    display: flex;
+    flex-direction: column;
+}
+
+html {
+    text-align: center;
+}
+
+input[type=checkbox] {
+    width: 100px;
+    height: 100px;
+}
+
+.cadre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nave {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.search {
+    
+    margin-bottom: 10px;
+}
